@@ -1,70 +1,85 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Forum FrontEnd with React JS
 
-## Available Scripts
+The forum is built for sharing people's daylife issues and getting solution from other's ....
+The back end is delivered from laravel in this case.
 
-In the project directory, you can run:
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Account Authentication
+- Hashed Password
+- Password Recovery with Mail
+- Post Like/Dislike
+- Comment Like/Dislike
+- Reporting Posts
+- Viewing Individual User Profile and Their Posts
+- Deleting Comments and Posts 
+- Image Converting in Database
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Demo of Web Server Design 
 
-### `npm test`
+![Forum - Google Chrome 7_29_2023 8_14_24 AM](https://github.com/SaminKirigaya/Forum_FrontEnd_With_React_Js__LARAVEL-OPTIMIZED-/assets/104618775/61b8eafb-b5b1-4209-af06-95d7527d61c7)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Forum and 4 more pages - Personal - Microsoft​ Edge 7_29_2023 8_30_46 AM](https://github.com/SaminKirigaya/Forum_FrontEnd_With_React_Js__LARAVEL-OPTIMIZED-/assets/104618775/33e30c5a-7fb1-4a0d-82bf-d7ef864d097c)
 
-### `npm run build`
+![Forum and 4 more pages - Personal - Microsoft​ Edge 7_29_2023 8_31_02 AM](https://github.com/SaminKirigaya/Forum_FrontEnd_With_React_Js__LARAVEL-OPTIMIZED-/assets/104618775/667a9d63-715d-42a4-a015-dab138033cf6)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Forum and 4 more pages - Personal - Microsoft​ Edge 7_29_2023 8_30_54 AM](https://github.com/SaminKirigaya/Forum_FrontEnd_With_React_Js__LARAVEL-OPTIMIZED-/assets/104618775/8aab3537-fcf1-4f12-98e6-0331418f268b)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![Forum and 4 more pages - Personal - Microsoft​ Edge 7_29_2023 8_31_24 AM](https://github.com/SaminKirigaya/Forum_FrontEnd_With_React_Js__LARAVEL-OPTIMIZED-/assets/104618775/0cd33d37-c9c9-4fb5-b7cc-d901259692d1)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Forum and 4 more pages - Personal - Microsoft​ Edge 7_29_2023 8_31_14 AM](https://github.com/SaminKirigaya/Forum_FrontEnd_With_React_Js__LARAVEL-OPTIMIZED-/assets/104618775/98657286-7ccf-41d4-9d8f-4a02499991b9)
 
-### `npm run eject`
+![Forum and 4 more pages - Personal - Microsoft​ Edge 7_29_2023 8_32_31 AM](https://github.com/SaminKirigaya/Forum_FrontEnd_With_React_Js__LARAVEL-OPTIMIZED-/assets/104618775/f4d77c2b-8c27-4ff5-8fc0-20783cb22ad9)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Forum and 4 more pages - Personal - Microsoft​ Edge 7_29_2023 8_32_37 AM](https://github.com/SaminKirigaya/Forum_FrontEnd_With_React_Js__LARAVEL-OPTIMIZED-/assets/104618775/1dd35b60-7a7a-4375-9b5d-5f89a117a753)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Forum and 4 more pages - Personal - Microsoft​ Edge 7_29_2023 8_33_45 AM](https://github.com/SaminKirigaya/Forum_FrontEnd_With_React_Js__LARAVEL-OPTIMIZED-/assets/104618775/c3d4cbe6-cfbf-4aff-a78a-30bf4c9b4a21)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![Forum and 4 more pages - Personal - Microsoft​ Edge 7_29_2023 8_33_53 AM](https://github.com/SaminKirigaya/Forum_FrontEnd_With_React_Js__LARAVEL-OPTIMIZED-/assets/104618775/2979b9d0-43e7-4d03-81de-1663d0668e13)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![Forum and 4 more pages - Personal - Microsoft​ Edge 7_29_2023 8_35_57 AM](https://github.com/SaminKirigaya/Forum_FrontEnd_With_React_Js__LARAVEL-OPTIMIZED-/assets/104618775/bd3469aa-c9cc-47e7-91e3-3bd8575cbb2c)
 
-## Learn More
+![Forum and 4 more pages - Personal - Microsoft​ Edge 7_29_2023 8_36_04 AM](https://github.com/SaminKirigaya/Forum_FrontEnd_With_React_Js__LARAVEL-OPTIMIZED-/assets/104618775/e98eb8bb-e719-417b-9429-4e4505cf3c01)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![Forum and 4 more pages - Personal - Microsoft​ Edge 7_29_2023 8_36_12 AM](https://github.com/SaminKirigaya/Forum_FrontEnd_With_React_Js__LARAVEL-OPTIMIZED-/assets/104618775/59c675ee-941d-415b-bb31-d532671b0299)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![Forum and 4 more pages - Personal - Microsoft​ Edge 7_29_2023 8_38_53 AM](https://github.com/SaminKirigaya/Forum_FrontEnd_With_React_Js__LARAVEL-OPTIMIZED-/assets/104618775/70860b3f-886d-4f93-80a1-c5b93f14ad91)
 
-### Code Splitting
+![Forum and 4 more pages - Personal - Microsoft​ Edge 7_29_2023 8_39_04 AM](https://github.com/SaminKirigaya/Forum_FrontEnd_With_React_Js__LARAVEL-OPTIMIZED-/assets/104618775/15f7e9bb-0f20-4b00-8f2e-b8a3fc4dcf95)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![Forum and 4 more pages - Personal - Microsoft​ Edge 7_29_2023 8_40_58 AM](https://github.com/SaminKirigaya/Forum_FrontEnd_With_React_Js__LARAVEL-OPTIMIZED-/assets/104618775/8bff53db-a98d-4c3f-9fcb-946542813d52)
 
-### Analyzing the Bundle Size
+![Forum and 4 more pages - Personal - Microsoft​ Edge 7_29_2023 8_41_15 AM](https://github.com/SaminKirigaya/Forum_FrontEnd_With_React_Js__LARAVEL-OPTIMIZED-/assets/104618775/f56bfb37-cd26-4879-9bff-3ad266009527)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![Forum and 4 more pages - Personal - Microsoft​ Edge 7_29_2023 8_41_53 AM](https://github.com/SaminKirigaya/Forum_FrontEnd_With_React_Js__LARAVEL-OPTIMIZED-/assets/104618775/80c11082-6621-4eb7-8c12-ed5d8fd5bcb8)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+## Run Locally
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Clone the project
 
-### Deployment
+```bash
+  git clone https://github.com/SaminKirigaya/Forum_FrontEnd_With_React_Js__LARAVEL-OPTIMIZED-.git
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Go to the project directory
 
-### `npm run build` fails to minify
+```bash
+  cd my-project //The folder where everything you keep
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
