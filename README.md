@@ -1,5 +1,6 @@
 
 # Forum FrontEnd with React JS
+The previous forum react was developed according to laravel and due to laravel backend send data as object and handling it in react was different cause at time of node js data was sent as array ...So, data rendering and loops are changed according to node Js.
 
 The forum is built for sharing people's daylife issues and getting solution from other's ....
 The back end is delivered from laravel in this case.
