@@ -18,6 +18,21 @@ The back end is delivered from laravel in this case.
 - Deleting Comments and Posts 
 - Image Converting in Database
 
+## Cautions :
+- Inside index.js file you will see two line code about ...
+- axios.defaults.baseurl and headers.common.['Authorization'] I am running my backend at localhost:8000 so it was written that change it according to your server link.
+- Our main focus was authentication and auth and other forum features like comment ... reports.
+- So, we did miss some stuffs like converting datetime into real localeString. You can do it using tolocaleString('en-US', {
+  year : 'numeric',
+  month: '2-digit',
+  day : '2-digit',
+  hour: '2-digit',
+  minute: '2-digit',
+  hour12 : true})
+  
+- I may add some other feauters if you guys ask and inspire me !!!
+- 
+
 ## Demo of Web Server Design 
 
 ![Forum - Google Chrome 7_29_2023 8_14_24 AM](https://github.com/SaminKirigaya/Forum_FrontEnd_With_React_Js__LARAVEL-OPTIMIZED-/assets/104618775/61b8eafb-b5b1-4209-af06-95d7527d61c7)
